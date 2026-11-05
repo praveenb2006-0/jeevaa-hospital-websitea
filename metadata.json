@@ -1,0 +1,6 @@
+{
+  "name": "Jeevaa Super Speciality Hospital",
+  "description": "Premier healthcare institution in Kalaburagi (Gulbarga), Karnataka offering 24/7 emergency, multi-speciality consultations, advanced surgery, and verified appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
